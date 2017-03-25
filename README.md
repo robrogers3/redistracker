@@ -61,17 +61,17 @@ If you discover any security related issues, please email robrogers@me.com inste
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/robrogers3/RedisTracker.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/robrogers/redis-tracker.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/robrogers3/RedisTracker/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/robrogers3/RedisTracker.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/robrogers3/RedisTracker.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/robrogers3/RedisTracker.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/robrogers/redis-tracker.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/robrogers3/RedisTracker
+[link-packagist]: https://packagist.org/packages/robrogers/redis-tracker
 [link-travis]: https://travis-ci.org/robrogers3/RedisTracker
 [link-scrutinizer]: https://scrutinizer-ci.com/g/robrogers3/RedisTracker/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/robrogers3/RedisTracker
-[link-downloads]: https://packagist.org/packages/robrogers3/RedisTracker
+[link-downloads]: https://packagist.org/packages/robrogers/redis-tracker
 [link-author]: https://github.com/robrogers3
 [link-contributors]: ../../contributors
