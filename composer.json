@@ -1,5 +1,5 @@
 {
-  "name": "rob.rogers/redis-tracker",
+  "name": "robrogers/redis-tracker",
   "description": "Use Redis to track progress during large jobs",
   "type": "library",
   "require": {
