@@ -15,7 +15,7 @@ what you have done and what you have not.
 Via Composer
 
 ``` bash
-$ composer require robrogers3/RedisTracker
+$ composer require robrogers/redistracker
 ```
 
 ## Usage
