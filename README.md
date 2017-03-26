@@ -15,7 +15,6 @@ what you have done and what you have not.
 Via Composer
 
 ``` bash
-<<<<<<< HEAD
 $ composer require robrogers/redistracker
 ```
 
